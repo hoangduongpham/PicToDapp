@@ -1,0 +1,49 @@
+.create-post-form {
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+
+.file-upload {
+  border: dashed #cce6fd;
+  border-radius: 1rem;
+  padding: 1rem;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.file-name {
+  font-weight: bold;
+  text-align: center;
+}
+
+.file-upload-btn {
+  background-color: #cce6fd;
+  display: block;
+  width: 100px;
+  padding: 1rem;
+  border-radius: 1rem;
+  text-align: center;
+  margin: auto;
+}
+
+.post-caption-input {
+  border: solid #cce6fd;
+  border-radius: 0.5rem;
+  height: 10rem;
+  resize: none;
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.input-label {
+  display: block;
+  font-weight: bold;
+  margin: 1rem auto 1rem auto;
+}
+
+.submit-button {
+  margin: 1rem auto 1rem auto;
+  text-align: right;
+}

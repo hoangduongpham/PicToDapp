@@ -1,0 +1,20 @@
+.home .create-post {
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    margin: 1rem auto 1rem auto;
+    padding: 1rem;
+    width: 30rem;
+}
+  
+.home .post {
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    margin: 0 auto 1rem auto;
+    padding: 0;
+    width: 30rem;
+}
+
+.close-form {
+    cursor: pointer;
+    text-align: right;
+}

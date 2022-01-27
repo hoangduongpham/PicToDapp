@@ -1,0 +1,14 @@
+.post-image {
+  height: auto;
+  width: 30rem;
+}
+
+.user-address {
+  font-weight: bold;
+  padding: 0.5rem;
+}
+
+.post-caption {
+  padding: 0.5rem;
+  margin: 0;
+}
